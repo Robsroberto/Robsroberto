@@ -22,6 +22,7 @@ Formateur en développement logiciel et technologies web. Retrouvez ci-dessous t
 | [JavaScript](https://github.com/Robsroberto/CoursJS) | L1 / L2 | JS, DOM, Événements, AJAX, jQuery |
 | [PHP](https://github.com/Robsroberto/CoursPHP) | L1 / L2 | PHP, PDO, Sessions, POO, Laravel |
 | [Data Visualisation D3.js](https://github.com/Robsroberto/CoursD3JS) | L2 | Visualisation de données avec D3.js |
+| [Web Backend Avancé](https://github.com/Robsroberto/CoursWebBackend_L3) | L3 | Laravel, Express.js, Django REST |
 
 ### 💻 Programmation & Algorithmique
 
@@ -30,7 +31,8 @@ Formateur en développement logiciel et technologies web. Retrouvez ci-dessous t
 | [Algorithmique](https://github.com/Robsroberto/CoursAlgo) | L1 / L2 | Algorithmique, structures de données |
 | [Python](https://github.com/Robsroberto/CoursPython) | L1 / L2 | Python, collections, fichiers, Tkinter |
 | [Langage C](https://github.com/Robsroberto/Cours_LangageC) | L1 / L2 | C, pointeurs, structures, fichiers |
-| [C#](https://github.com/Robsroberto/CoursCsharp) | L1 / L2 | C#, POO, connexion bases de données |
+| [Java](https://github.com/Robsroberto/CoursJava) | L2 | Java, POO, héritage, interfaces |
+| [C#](https://github.com/Robsroberto/CoursCsharp) | L3 | C#, POO, connexion bases de données |
 
 ### 🗄️ Bases de données & Analyse
 
