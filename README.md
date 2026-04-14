@@ -1,7 +1,7 @@
 ## Salut , Ici Robert
 ### 📁 À propos de ce dépôt
 
-Bienvenue sur mon dépôt personnel principal ! Ce repository représente mon **profil de développeur, formateur et passionné de technologie**. Il sert de **point central** pour :
+Bienvenue sur mon dépôt personnel principal ! Ce repository représente mon **profil d'ingénieur logiciel et data, formateur et passionné de technologie**. Il sert de **point central** pour :
 
 * 📌 **Mes projets publics** les plus importants
 * 📚 **Mes supports de cours** et démonstrations pratiques pour étudiants en développement, data science, et IA
